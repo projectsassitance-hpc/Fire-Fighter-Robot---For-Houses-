@@ -1,7 +1,7 @@
 #include <SoftwareSerial.h>
 
 // HarishProjects.com
-const String PHONE_1 = "+919131808247"; // Receiver number
+const String PHONE_1 = "+91"; // Receiver number
 const String PHONE_2 = ""; // Optional
 const String PHONE_3 = ""; // Optional
 
